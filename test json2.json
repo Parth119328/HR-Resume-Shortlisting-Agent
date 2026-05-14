@@ -1,0 +1,14 @@
+{
+    "name": "Jon Snow",
+    "skills": [
+        "Python",
+        "React",
+        "AWS",
+        "JavaScript"
+    ],
+    "experience": "3 years",
+    "education": "Bachelor of Technology in Computer Science",
+    "projects": [
+        "E-Commerce Website"
+    ]
+}

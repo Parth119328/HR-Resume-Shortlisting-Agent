@@ -1,0 +1,16 @@
+{
+    "name": "Rahul Sharma",
+    "skills": [
+        "Python",
+        "React",
+        "AWS",
+        "Docker",
+        "JavaScript"
+    ],
+    "experience": "2 years",
+    "education": "Bachelor of Technology in Computer Science",
+    "projects": [
+        "AI Resume Screening System",
+        "E-Commerce Website"
+    ]
+}
