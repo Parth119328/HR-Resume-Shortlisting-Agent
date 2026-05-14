@@ -222,15 +222,11 @@ The project uses LLMs for:
 
 ## 🏠 Home Page
 
-Add Screenshot Here
-
 ![Home Page](images/home.png)
 
 ---
 
 ## 📄 Job Description Analysis
-
-Add Screenshot Here
 
 ![JD Analysis](images/jd_analysis.png)
 
@@ -238,7 +234,6 @@ Add Screenshot Here
 
 ## 📑 Resume Analysis
 
-Add Screenshot Here
 
 ![Resume Analysis](images/resume_analysis.png)
 
@@ -246,7 +241,6 @@ Add Screenshot Here
 
 ## 🔗 LinkedIn JSON Analysis
 
-Add Screenshot Here
 
 ![LinkedIn Analysis](images/lkdn.png)
 
@@ -254,7 +248,6 @@ Add Screenshot Here
 
 ## 🏆 Candidate Ranking Dashboard
 
-Add Screenshot Here
 
 ![Candidate Ranking](images/resume_out.png)
 ![Candidate Ranking](images/lkdn.png)
