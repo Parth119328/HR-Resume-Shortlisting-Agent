@@ -333,7 +333,7 @@ This project demonstrates understanding of:
 The project uses:
 
 - Groq API
-- Meta Llama 3.3 70B Versatile
+- Llama 3.3 70B Versatile
 
 ---
 
@@ -529,7 +529,6 @@ The project uses environment variables for secure credential handling.
 Security measures:
 - API keys stored in `.env`
 - `.env` excluded using `.gitignore`
-- `.env.example` provided instead of real credentials
 - secrets never hardcoded in source code
 
 ---
