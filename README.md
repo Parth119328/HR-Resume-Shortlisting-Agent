@@ -135,7 +135,7 @@ git clone https://github.com/Parth119328/HR-Resume-Shortlisting-Agent.git
 ## 2️⃣ Move Into Project Folder
 
 ```bash
-cd YOUR_PROJECT_FOLDER_NAME
+cd HR-Resume-Shortlisting-Agent-main
 ```
 
 ---
