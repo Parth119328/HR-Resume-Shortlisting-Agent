@@ -1,0 +1,67 @@
+JOB TITLE: Senior Full-Stack Software Engineer
+DEPARTMENT: Engineering / Product Development
+REPORTS TO: Director of Engineering
+JOB ID: #88294-IT
+FLSA STATUS: Exempt / Full-Time
+LOCATION: San Francisco, CA (Hybrid / 3 Days On-Site)
+
+[ COMPANY OVERVIEW ]
+NexusStream Tech is a leading-edge SaaS provider specializing in AI-driven data analytics for global logistics. Founded in 2018, we empower Fortune 500 companies to visualize complex supply chain data through intuitive, high-performance dashboards. We pride ourselves on a culture of technical excellence, continuous learning, and collaborative problem-solving.
+
+[ THE ROLE ]
+We are looking for a Senior Full-Stack Software Engineer to join our Core Platform team. You will be responsible for designing scalable microservices, optimizing database performance, and building responsive, high-density user interfaces. This is a high-impact role where you will influence the architectural direction of our next-generation enterprise software.
+
+[ KEY RESPONSIBILITIES ]
+
+Development: Lead the design and implementation of robust, scalable web applications using React and Node.js.
+
+Architecture: Define and maintain system architecture, ensuring high availability and low latency for global users.
+
+Database Management: Optimize SQL/NoSQL queries and manage data schemas for high-concurrency environments.
+
+Code Quality: Mentor junior developers through peer code reviews and contribute to internal documentation.
+
+DevOps Integration: Collaborate with infrastructure teams to streamline CI/CD pipelines and automate deployment workflows.
+
+Security: Implement industry-standard security protocols (OAuth2, JWT) and perform regular vulnerability assessments.
+
+[ REQUIRED QUALIFICATIONS ]
+
+Education: BS/MS in Computer Science, Engineering, or a related technical field.
+
+Experience: 5+ years of professional experience in full-stack software development.
+
+Backend Mastery: Strong proficiency in Java, Go, or C++ with a focus on multithreading and memory management.
+
+Frontend Expertise: Deep understanding of modern JavaScript frameworks (React/Vue), CSS preprocessors, and state management (Redux/Zustand).
+
+Cloud Infrastructure: Hands-on experience with AWS (EC2, S3, Lambda) or Google Cloud Platform.
+
+Problem Solving: Proven track record of solving complex algorithmic challenges and optimizing system bottlenecks.
+
+[ PREFERRED SKILLS & TOOLS ]
+
+Experience with Docker, Kubernetes, and container orchestration.
+
+Familiarity with UI/UX design principles and tools like Figma.
+
+Understanding of modular arithmetic and prime-based encryption for secure data handling.
+
+Experience in competitive programming or high-stakes coding environments.
+
+[ BENEFITS & PERKS ]
+
+Compensation: Competitive base salary + equity options + annual performance bonus.
+
+Health: Premium medical, dental, and vision coverage for you and your dependents.
+
+Growth: $3,000 annual professional development budget for certifications and conferences.
+
+Balance: Flexible PTO, paid parental leave, and a monthly wellness stipend.
+
+Office: High-end equipment (latest MacBook Pro, ergonomic desk) and fully stocked kitchen.
+
+[ APPLICATION PROCESS ]
+NexusStream Tech is an Equal Opportunity Employer. We value diversity and do not discriminate on the basis of race, religion, gender, or disability status.
+
+To apply, please visit www.nexusstream-tech.com/careers or submit your resume directly to hiring@nexusstream-tech.com with the subject line: "Application: Senior Full-Stack Engineer - [Your Name]".
